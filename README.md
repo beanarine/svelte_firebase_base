@@ -1,0 +1,1 @@
+# svelte_firebase_base
